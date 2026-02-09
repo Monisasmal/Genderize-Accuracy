@@ -42,3 +42,54 @@ The goal of this project is to explore how statistical APIs work while building 
 
 **API**
 - Genderize API — Name → gender prediction
+
+---
+
+## 🧑‍💻 How It Works
+
+User enters a first name
+
+App sends a request to Genderize API
+
+API returns statistical gender data
+
+UI displays:
+Name: Alex
+Gender: Male
+Probability: 0.87
+Count: 14235
+
+---
+
+## 🎯 Learning Goals
+
+This project demonstrates:
+
+- API integration in Next.js
+- Client-side data fetching
+- State management basics
+- Tailwind UI styling
+- Responsive layout design
+
+---
+
+## Preview
+<img width="1002" height="672" alt="image" src="https://github.com/user-attachments/assets/34cf50a0-df4f-4708-ade3-6fff1c76a2b1" />
+
+---
+
+## 🙋‍♀️ Author
+
+**Manaswini Sasmal**
+
+📲 - 6370094643
+ 
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
+
